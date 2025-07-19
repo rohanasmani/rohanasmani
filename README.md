@@ -3,7 +3,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohanasmani&label=Profile%20views&color=0e75b6&style=flat" alt="rohanasmani" />
 </p>
----
+<div id="header" align="center">
+  <img src="https://dribbble.com/shots/16622537-Chipset?utm_source=Clipboard_Shot&utm_campaign=oliverking&utm_content=Chipset&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=oliverking&utm_content=Chipset&utm_medium=Social_Share"  width="850"/> <br>
+</div>
+
 
 ### 💡 About Me
 
