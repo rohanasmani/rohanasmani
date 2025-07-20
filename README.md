@@ -6,6 +6,7 @@
 <div id="header" align="center">
 <img src="https://www.aimlayengg.com/wp-content/uploads/2022/08/elec-a.gif" width="650"/> <br>
 </div>
+
 ### 💡 About Me
 
 - 🎓 I'm currently pursuing B.Tech in **Electronics and Communication Engineering**  
