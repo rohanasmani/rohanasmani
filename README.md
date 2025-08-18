@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Quartus-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Modelsim-black?style=flat-square" />
   <img src="https://img.shields.io/badge/LT Spice-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scilab-red?style=flat-square" />
 </p>
 
 ---
